@@ -1,6 +1,8 @@
 # 💫 About Me:
 🤝 I’m looking to collaborate on projects React, Cybersecurity, AIML, Quantum-Computing, and various other things <br>🌱 I’m currently learning about Blockchain and Quantum Computing <br>😄 I am also an EX200 Red Hat Certified System Administrator<br>📫 How to reach me by Checking the social links below.<br>⚡ Fun fact: I spend almost the whole day listening to songs every day
 
+## Views Counter:
+![](https://komarev.com/ghpvc/?username=your-github-username&color=amber&style=flat-square)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navaneetrrao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneet-r-rao) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@navaneetrrao) 
