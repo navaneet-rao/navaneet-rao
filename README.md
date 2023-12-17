@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=navaneet-rao&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneet-rao&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneet-rao&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navaneet-rao&theme=merko&hide_border=true)
 
 
