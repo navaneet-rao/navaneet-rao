@@ -11,7 +11,12 @@
 ![](https://komarev.com/ghpvc/?username=navaneet-rao&color=378805&style=for-the-badge)
 
 ## ⚜️Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,postman,docker,redhat,openshift,neovim,lua,java)](#)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,mongodb,mysql,prisma,react,nextjs,tailwind,ts,jest,nodejs,vite,express,kubernetes,openshift,redhat,docker,go,c,cpp,py,neovim,ansible,aws,gcp,bash,cmake,firebase,html,lua,latex,kali,opencv,postman" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=navaneet-rao&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) 
