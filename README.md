@@ -16,6 +16,7 @@
 </p>
 
 ## 📊 GitHub Stats:
+[![An image of @navaneetrao's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navaneetrao)](https://holopin.io/@navaneetrao)
 ![](https://github-readme-stats.vercel.app/api?username=navaneet-rao&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navaneet-rao&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut) 
 <a href="https://github.com/navaneet-rao/github-stats">
